@@ -1,3 +1,0 @@
-C:/Users/cafis/CLionProjects/AnoiTowers/cmake-build-debug/CMakeFiles/AnoiTowers.dir
-C:/Users/cafis/CLionProjects/AnoiTowers/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/cafis/CLionProjects/AnoiTowers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

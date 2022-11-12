@@ -1,7 +1,6 @@
-# FrogAlgorithm
+# Hanoi's tower algorithm
 
-A simple frog and stones algorithm
-
+Just the hanoi algorithm
 ## Description
 
 Simple hanoi's tower algorithm made up in c++!
